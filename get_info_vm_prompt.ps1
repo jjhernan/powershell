@@ -1,4 +1,4 @@
-$APPNAME = Read-Host -Prompt 'Ingresa nombre de la aplicacion a usar'
+$APPNAME = Read-Host -Prompt 'Ingresa nombre de la aplicacion'
 $SUS = Read-Host -Prompt 'Ingresa nombre de suscripcion '
 $RG = Read-Host -Prompt 'Ingresa nombre de resorce group '
 $VM = Read-Host -Prompt 'Ingresa nombre de la maquina virtual '
